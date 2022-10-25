@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "optumflutterbot-pakk",
+  "private_key_id": "8a3db67698a8f196bd4dc19c792dd280203d0a8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3H+xXjnV5eut8\ngE0VGKotW0aPomJiZ4M9Lve379ftrbm9adhXOu8koKvDb9yXVjxqY62Dnyvg0W8a\novO+LJT1Ox0pz7BkSpb3M490abUXab8XzvzhQP5hPomBoexMj/fmt70I7sIQD9c7\n7NYRW3yF1agOy+bgyAO9OENXULKGwGdPocK79AUeLsuwDN2St2C2kcBuLHt+5BoW\n4XwK9KX3gbVRdrTi3z1pMx1bP9wQvo34iwfy450kfUcCyYL+pOH/bjrApLT18BC0\nmkHhiAJ9aouhWX0BQAK+QCIt63Omd8X4MOT23vRm2SAwp4taIX/P7f78rb+0NEPL\nYLOEXz1FAgMBAAECggEAWeLFBwsplXnk6eUuMNs8+OtzHKC3yxaFIDyUIkiLhCJA\nZ/1y0AphBOkKtnELZYtSN2R68H7qMj2K3Be9LY1DhoXAIFxN+ER2iptX4GvclEP3\nJPAYR1a4JjJkm2lIDCKkq65njuFnByxHWSY8wyNVYXoItk6WoqH619+sikjVgHdN\nHykQmxGpcSjFu3sVO5mRHlgHXK91mP2/8r3WovcNPOj5au1izRa8yXj919gYDacI\n35apsIDB4uHflp8XhrXzXPG/CEYKtR7ek9WlwoCcHr6484HITazzxNRx92B0HaXs\n7ZlhOqIm9njZPgCVjReRH0lIlVtlZBPKVgDipDh1VwKBgQD30xlaOlbgVb9cBg6C\nIGfNLfzHyFyPWh66QQyV/OFdw4kkbIKnjub6/bxOrxtYPiu856duSMCqWFBcCBe6\nvh8GwcrzKihYyLVxa96WJ5UIV6D5lNrU7e94LG3GZxpOeloN1x/w28AfJCU10gQ+\nUheO9y1QiMIv2fq3GNLrVXWKRwKBgQC9Km1849CKfB+X7hOZgqBkm/yPZ3dGY4qs\nBKilB+wWOPWA5Teun3W/Z2tOK56xQeDy9FzsVgEDEyG6okZMjIry8d4vhsCFdDsC\ntPs2IufPmtMKANqrZ/+n2F9clfZ+G3KRX3+/XRHzvTQJAGdK3o9vp/hkpPM9ULUc\nleEJ1S02EwKBgELoramcoqQCwp13zSb41M2iouLVh5f0fuNOeLVuBvKnvjklSsku\nXdJZ+yNLR5i1gF2KNbwizFGxclDGppF2jy3l2IN6WFZQKhyrQPdNTIFqFz4LIGHo\ns4TAigrM/188zV97O1ZuHhrKSXmUcCzbQR0KQyPBKJx+v5/7hcaf1hI1AoGBAK/z\nqfmz8cMOZ1irY2GzpjtO+GHvLHu1lUQh5Tf0IX4eJwVosB1mR2Ds8lu4qRhZncJ+\n13whFznj7siprlf/ljMaFMACSEsZ7NW8v7oAR7zMVyaD2uH6j0txMGpvNuLf5vYf\nbTTzfgJIaAFDddCnKaYDCEGdSH8s9fmL09GQj0gvAoGAeAV78R5fwI6HoBg2cTVC\nLg40znkOcAx5oq+YVOCHu329Gh0BNDIkUvS/O8ZWxDq4fSWXJFMMb4BOAkBlIv8w\nU2NgQdGBK53m2V3aturGbCuzaK36D9xUzKCsLSr56uqzR7k7NECxxFlId5hq645L\nnL/nQ16K5EMGAU82w8vVpiQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "optumbot@optumflutterbot-pakk.iam.gserviceaccount.com",
+  "client_id": "102457037322131817667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/optumbot%40optumflutterbot-pakk.iam.gserviceaccount.com"
+}
